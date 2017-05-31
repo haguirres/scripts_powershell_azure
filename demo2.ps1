@@ -2,3 +2,4 @@
 Login-AzureRmAccount
 Select-AzureRmSubscription -SubscriptionName 'Ventaja para programa de desarrolladores'
 Get-AzureRmContext
+#comentarios
